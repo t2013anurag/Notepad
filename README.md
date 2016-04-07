@@ -4,7 +4,7 @@ A notepad build using Java as a project.
 
 Features : 
 
-            1 . New File
+            1. New File
             
             2. Open File
             
